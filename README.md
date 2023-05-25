@@ -1,5 +1,5 @@
-this statistic is kinda for myself im not gonna lie (interesting to see)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=coolest)](https://github.com/anuraghazra/github-readme-stats)
+# this statistic is kinda for myself im not gonna lie (interesting to see)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=coolest?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **coolest/coolest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

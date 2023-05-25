@@ -1,5 +1,5 @@
-### Hi there 👋
-
+hi im coolest
+i need to diversify my languages fr
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=coolest)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
